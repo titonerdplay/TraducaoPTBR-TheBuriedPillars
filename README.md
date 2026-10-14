@@ -27,12 +27,9 @@ Tradução completa para português brasileiro do jogo **The Buried Pillars**, f
 
 ## 📥 Como baixar a tradução
 
-1. Vá até a página de **Releases** deste repositório (barra lateral direita).
-2. Clique na versão mais recente.
-3. Na seção **Assets**, baixe o arquivo `.zip` (ex: `TraducaoPTBR.zip`).
-4. Extraia o conteúdo em qualquer pasta.
-
-> Se você não encontrar a seção "Releases", também pode baixar direto pelo botão verde **"Code" → "Download ZIP"** na página principal do repositório. Nesse caso, o arquivo baixado conterá o repositório inteiro — extraia e localize a pasta `TraducaoPTBR` dentro dele.
+1. Só ir até o botão verde lá em cima escrito **Code** nessa página.
+2. Clique em **Download ZIP**.
+3. Extraia o conteúdo em qualquer pasta.
 
 ---
 
@@ -81,7 +78,7 @@ Não. O plugin apenas substitui os textos em tempo de execução. Ele não alter
 
 Tradução feita por **Tito** (https://x.com/TitoNerdArts).
 
-Espero que a tradução esteja ok, eu fui jogando e traduzindo, não pretendo ter q atualizar ou algo do tipo, se tiver algo em inglês ainda, espero q seja algo bobo e que não faça diferença :P
+Espero que a tradução esteja ok, enquanto eu fui jogando eu ia traduzindo junto, não pretendo ter q atualizar novamente ou algo do tipo, se ainda tiver algo em inglês, espero q seja algo bobo e que não faça diferença :P
 ---
 
 ## ⚠️ Aviso
