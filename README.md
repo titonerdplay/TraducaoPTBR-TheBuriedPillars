@@ -27,7 +27,7 @@ Tradução completa para português brasileiro do jogo **The Buried Pillars**, f
 
 ## 📥 Como baixar a tradução
 
-1. Só ir até o botão verde lá em cima escrito **Code** nessa página.
+1. Só ir até o botão verde lá em cima escrito **Code** nessa página ou [Apertando aqui](https://github.com/titonerdplay/TraducaoPTBR-TheBuriedPillars/archive/refs/heads/main.zip).
 2. Clique em **Download ZIP**.
 3. Extraia o conteúdo em qualquer pasta.
 
